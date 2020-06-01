@@ -12,7 +12,7 @@ The code can be ran without interface in matlab as part of your normal script (c
 
 ## How does it work
 
-The algorithms uses linear optimization to solve for the best mineral combination. Slack variables are used to account for unknown minerals in the rock. Note that the estimation are mass proportions (not volumetric proportions). For questions, contact Mustafa.Geoscientist@outlook.com
+The algorithms uses linear optimization to solve for the best mineral combination. Slack variables are used to account for unknown minerals in the rock. Note that the estimation are mass proportions (not volumetric proportions). Find more information in this poster: [link](https://drive.google.com/file/d/1yj4KFFbFAussaQJ5K9LAbH-jNPXLJlWs/view?usp=sharing). For questions, contact Mustafa.Geoscientist@outlook.com
 
 ## Referencing
 Please reference the two referneces below:
